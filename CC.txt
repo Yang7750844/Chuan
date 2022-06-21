@@ -1,4 +1,5 @@
 ﻿{"zhuyejiekou":[
+{"name":"厂长资源","url":"https://www.huidongnet.com//api.php/v1.vod"},
 {"name":"厂长资源","url":"https://qianoo.cn/api.php/v1.vod"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"飓风影视","url":"http://jf.35ys.cc/lehailb_api.php/v1.vod"},
