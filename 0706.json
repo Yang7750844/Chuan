@@ -1,8 +1,9 @@
 
 
 {
-"spider":"clan://TVBox/jar/07061553.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
+"spider":"https://css.lc/down.php/f1119df4fc629e71103cc19e2c7b2338.jar",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly95YW5nNzc1MDg0NC5naXRodWIuaW8vQ2h1YW4vdHYvbGl2ZS50eHQ="]}]}],
+
 
 
 "sites":[
@@ -61,7 +62,7 @@
 {"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/MaooXB/lgys.json"},    
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
-
+{"key":"csp_appysv2_钟特影院","name":"钟特影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
 
 
 
